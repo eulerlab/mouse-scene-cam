@@ -2,7 +2,7 @@
 
 An open-source, UV-green camera designed to match the spectral sensitivities of the the mouse photoreceptors and to record footage in the natural environment of mice. This repository contains scripts, notebooks and data links related to our recent publication:
 
-Qiu Y, Zhao, Klindt D, Kautzky M, Szatko KP, Schaeffel F, Rifai K, Franke K, Busse L, Euler T (2021) _Natural environment statistics in the upper and lower visual field are reflected in mouse retinal specializations._ **Current Biology**, accepted.
+Qiu Y, Zhao Z, Klindt D, Kautzky M, Szatko KP, Schaeffel F, Rifai K, Franke K, Busse L, Euler T (2021) _Natural environment statistics in the upper and lower visual field are reflected in mouse retinal specializations._ **Current Biology**, accepted.
 
 ## UV-green footage from the mouse habitat
 
