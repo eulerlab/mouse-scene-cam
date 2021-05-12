@@ -15,7 +15,7 @@ The movies listed in the table below are available from [xxx](link).
 
 ```
 ├───pictures                       - Assorted pictures
-├───photoisomerizations            - Jupyter notebook to estimate photoisomerization rates from camera images
+├───photoisomerizations            - Notebook to estimate photoisomerization rates from camera images
 │   └───data                       - Spectral data for notebook
 └───printed_parts                  - .stl, .scad (OpenSCAD scripts)
 ```
