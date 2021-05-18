@@ -1,1 +1,1 @@
-Files for 3D printing, created with the software Freecad or Openscad.
+Files for 3D printing, created with the software Freecad, Openscad or Fusion360.
