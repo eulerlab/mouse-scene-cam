@@ -18,5 +18,6 @@ The movies listed in the table below are available from [xxx](link).
 ├───photoisomerizations            - Notebook to estimate photoisomerization rates from camera images
 │   └───data                       - Spectral data for notebook
 └───printed_parts                  - .stl, .scad (OpenSCAD scripts)
+└───code                           - Code for analysis
 ```
 
