@@ -20,5 +20,7 @@ The movies listed in the table below are available from [xxx](link).
 └───printed_parts                  - .stl, .scad (OpenSCAD scripts)
 └───code                           - Code for analysis
 └───data                           - Data for analysis
+│   └───mouse_footage              - All mouse movies
+└───footage                        - Notebook to read footage data and save as .avi file
 ```
 
