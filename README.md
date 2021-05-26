@@ -6,7 +6,7 @@ Qiu Y, Zhao Z, Klindt D, Kautzky M, Szatko KP, Schaeffel F, Rifai K, Franke K, B
 
 ## UV-green footage from the mouse habitat
 
-The movies listed in the table below are available from [xxx](link). 
+The movies listed in the table below are available from [here](https://zenodo.org/record/4812404#.YK6dNbczapo). 
 
 [<img src="https://github.com/eulerlab/mouse-scene-cam/blob/master/pictures/table_mousefootage.png" alt="Table" width="640"/>](https://github.com/eulerlab/mouse-scene-cam/blob/master/pictures/table_mousefootage.png)
 
