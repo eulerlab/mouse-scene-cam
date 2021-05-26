@@ -19,5 +19,6 @@ The movies listed in the table below are available from [xxx](link).
 │   └───data                       - Spectral data for notebook
 └───printed_parts                  - .stl, .scad (OpenSCAD scripts)
 └───code                           - Code for analysis
+└───data                           - Data for analysis
 ```
 
